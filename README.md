@@ -22,6 +22,11 @@ As a reminder, here are the instructions:
 > To keep things simple, your function only needs to deal with lowercase strings
 > that are all letters (don't worry about spaces or special characters).
 
+```
+Iterate to the middle of a word
+check if the every first letter = last letter
+```
+
 ## Solution 2
 
 ### Video Walkthrough

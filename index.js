@@ -1,9 +1,20 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  for (let i=0; i<word.length /2; i++) {   
+    const j = word.length - 1 -[i]
+     return word[i] === word[j]
+  }
 }
-
 /* 
   Add your pseudocode here
+  Iterate to the middle of a word
+   if the every first letter = last letter 
+    return true
+
+  return false  
+
+ 
+
 */
 
 /*
